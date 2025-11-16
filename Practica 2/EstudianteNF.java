@@ -1,5 +1,3 @@
-package JavaPracticas.Practica2;
-
 public class EstudianteNF {
     // Atributos
     String nombre;
@@ -60,3 +58,4 @@ public class EstudianteNF {
         return edad >= 18;
     }
 }
+
