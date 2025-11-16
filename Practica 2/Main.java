@@ -1,5 +1,3 @@
-package JavaPracticas.Practica2;
-
 public class Main {
     public static void main(String[] args) {
         // Crear estudiantes
@@ -32,3 +30,4 @@ public class Main {
         }
     }
 }
+
