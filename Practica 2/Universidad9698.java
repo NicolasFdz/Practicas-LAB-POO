@@ -1,5 +1,3 @@
-package JavaPracticas.Practica2;
-
 public class Universidad9698 {
     EstudianteNF[] estudiantes;
     int contador;
@@ -34,3 +32,4 @@ public class Universidad9698 {
         }
     }
 }
+
